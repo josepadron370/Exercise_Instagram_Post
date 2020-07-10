@@ -2,9 +2,24 @@ body {
     background: darkgray;
 }
 
+.main-content {
+    width: 50%;
+    height: 100%;
+    background: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
 .igpost {
-    width: 500px;
-    height: 700px;
-    background: yellowgreen;
-    margin: 50%;
+    background: white;
+    width: 60%;
+    height: 80%;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
