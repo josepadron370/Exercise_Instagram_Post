@@ -35,28 +35,36 @@ img {
 
 .iconfive {
     float: left;
+    width: 40px;
+    height: 40px;
+    background: orangered;
 }
 
 .iconell {
     float: right;
+    background: skyblue;
 }
 
 .lefticons {
     /* margin: 50%; */
     float: left;
     padding-left: 12px;
+    background: blueviolet;
 }
 
 .iconbookmark {
     float: right;
     padding-right: 12px;
+    background: burlywood;
 }
 
 .htmlheader {
     float: left;
+    background: yellow;
 }
 
 footer {
     padding:15px;
+    background:chartreuse;
  
 }
