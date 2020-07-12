@@ -31,3 +31,8 @@ body {
 .iconbookmark {
     float: right;
 }
+
+.htmlheader {
+    float: left;
+    width: 50%;
+}
