@@ -24,14 +24,30 @@ body {
     transform: translate(-50%, -50%);
 }
 
+i fa fa-html5 {
+    float: left;
+}
+
 .iconell {
     float: right;
 }
 
+.lefticons {
+    /* margin: 50%; */
+    float: left;
+    padding-left: 12px;
+}
+
 .iconbookmark {
     float: right;
+    padding-right: 12px;
 }
 
 .htmlheader {
     float: left;
+}
+
+footer {
+    padding:15px;
+ 
 }
