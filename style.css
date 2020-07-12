@@ -29,7 +29,11 @@ img {
     width: 100%;
 }
 
-i fa fa-html5 {
+/* i fa fa-html5 {
+    float: left;
+} */
+
+.iconfive {
     float: left;
 }
 
